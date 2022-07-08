@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/matteogamba/Desktop/my-vite/hardhat/contracts/CheeseChain.sol": {
+      "lastModificationDate": 1657188722288,
+      "contentHash": "2e77b83508a1bf6d5dbbf9d0c3400c59",
+      "sourceName": "contracts/CheeseChain.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CheeseChain"
+      ]
+    },
+    "/Users/matteogamba/Desktop/my-vite/hardhat/contracts/CheeseChainV2.sol": {
+      "lastModificationDate": 1657188722296,
+      "contentHash": "1735cff76dc2287f402aec959128168b",
+      "sourceName": "contracts/CheeseChainV2.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CheeseChainV2"
+      ]
+    }
+  }
+}
